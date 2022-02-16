@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"F:\\Second Year\\UI\\Sem1\\Match3Framework\\Source\\Match3\\Match3.Build.cs",
+		"F:\\Second Year\\UI\\Sem1\\Match3Framework\\Source\\UnrealMatch3.Target.cs",
+		"F:\\Second Year\\UI\\Sem1\\Match3Framework\\Source\\UnrealMatch3Editor.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}
